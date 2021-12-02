@@ -14,8 +14,5 @@ BikeshareAlbe.py
 
 ### Credits
 
-changes 2 
-bye bye
-let's go to the beach
+My comments are: 4th changes  
 
-hi world
